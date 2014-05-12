@@ -7,4 +7,28 @@ Uses Ruby; to run, type
 
 No dinosaurs can currently escape or breed, but only because that hasn't been written yet. But... life finds a way? 
 
+Expected output:
+
+Total Animals                             238
+------------------------------------------------------------
+    Species                     Expected     Found       Ver
+------------------------------------------------------------
+Tyrannosaurs                           2         2       4.1
+Maiasaurs                             21        21       3.3
+Stegosaurs                             4         4       3.9
+Triceratops                            8         8       3.1
+Procompsognathids                     49        49       3.9
+Othnielia                             16        16       3.1
+Velociraptors                          8         8       3.0
+Apatosaurs                            17        17       3.1
+Hadrosaurs                            11        11       3.1
+Dilophosaurs                           7         7       4.3
+Pterosaurs                             6         6       4.3
+Hypsilophodontids                     33        33       2.9
+Euoplocephalids                       16        16       4.0
+Styracosaurs                          18        18       3.9
+Microceratops                         22        22       4.1
+------------------------------------------------------------
+Total                                238       238
+
 
