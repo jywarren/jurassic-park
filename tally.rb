@@ -16,7 +16,10 @@ animals = [
   {:name => 'Hypsilophodontids',  :expected => 33, :version => 2.9 },
   {:name => 'Euoplocephalids',    :expected => 16, :version => 4.0 },
   {:name => 'Styracosaurs',       :expected => 18, :version => 3.9 },
-  {:name => 'Microceratops',      :expected => 22, :version => 4.1 }
+  {:name => 'Microceratops',      :expected => 22, :version => 4.1 },
+  {:name => 'Compsognaths',       :expected => 20, :version => 2.9 },
+  {:name => 'Mosasaurs',          :expected => 15, :version => 2.5 },
+  {:name => 'Argentinasaurs',     :expected => 3 , :version => 1.0 }
 ]
 
 animals.each do |a|
@@ -38,4 +41,3 @@ end
 
 puts "-"*60
 puts "Total"+" "*25+expected.to_s.rjust(10)+found.to_s.rjust(10)
-
