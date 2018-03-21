@@ -1,0 +1,47 @@
+An open source clone of some of Jurassic Park's computer systems
+=============
+
+Uses Ruby; to run, type
+
+    > ruby tally.rb
+
+No dinosaurs can currently escape or breed, but only because that hasn't been
+written yet. But... life finds a way?
+
+Expected output:
+Total Dinosaurs                             715
+------------------------------------------------------------
+    Species                     Expected     Found       Ver
+------------------------------------------------------------
+Spear Fish                            78        78       4.0
+Theropoda Avialiae                    61        61       3.5
+Carcharodontosaurinids                68        68       4.1
+Caihong Juji                          39        39       4.0
+Mesozoica                             54        54       4.1
+Plesiosaurs                           19        19       2.5
+Ichthyosaurs                          27        27       4.3
+Mansourasaurs                         11        11       5.1
+Brontosaurs                           57        57       4.1
+Diplodocusaurs                         8         8       2.0
+Allosaurs                             11        11       2.0
+Tyrants                               11        11       3.5
+Massospondyls                          9         9       3.0
+Mosasaurs                             15        15       2.5
+Argentinasaurs                         9         9       2.9
+Tyrannosaurs                           2         2       4.1
+Maiasaurs                             21        21       3.3
+Stegosaurs                             4         4       3.9
+Triceratops                            8         8       3.1
+Procompsognathids                     49        49       3.9
+Othnielia                             16        16       3.1
+Velociraptors                          8         8       3.0
+Apatosaurs                            17        17       3.1
+Hadrosaurs                            11        11       3.1
+Dilophosaurs                           7         7       4.3
+Pterosaurs                             6         6       4.3
+Hypsilophodontids                     33        33       2.9
+Euoplocephalids                       16        16       4.0
+Styracosaurs                          18        18       3.9
+Microceratops                         22        22       4.1
+------------------------------------------------------------
+Total                                715       715
