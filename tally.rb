@@ -1,5 +1,13 @@
 # Jurassic Park | Tally
-
+echo "ACCESS DENIED"
+sleep 2
+echo "AND..."
+sleep 2
+while true
+sleep 0.1
+do echo "You didn't say the magic word!"
+done
+  
 total = 0
 animals = [
   {:name => 'Tyrannosaurs',       :expected => 2 , :version => 4.1 },
