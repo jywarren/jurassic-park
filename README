@@ -9,7 +9,7 @@ No dinosaurs can currently escape or breed, but only because that hasn't been wr
 
 Expected output:
 
-Total Animals                             238
+Total Animals                             239
 ------------------------------------------------------------
     Species                     Expected     Found       Ver
 ------------------------------------------------------------
@@ -17,7 +17,7 @@ Tyrannosaurs                           2         2       4.1
 Maiasaurs                             21        21       3.3
 Stegosaurs                             4         4       3.9
 Triceratops                            8         8       3.1
-Procompsognathids                     49        49       3.9
+Procompsognathids                     49        50       3.9
 Othnielia                             16        16       3.1
 Velociraptors                          8         8       3.0
 Apatosaurs                            17        17       3.1
@@ -29,6 +29,6 @@ Euoplocephalids                       16        16       4.0
 Styracosaurs                          18        18       3.9
 Microceratops                         22        22       4.1
 ------------------------------------------------------------
-Total                                238       238
+Total                                238       239
 
 
